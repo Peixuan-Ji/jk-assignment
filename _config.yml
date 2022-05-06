@@ -10,7 +10,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://peixuan-ji.github.io'
-baseurl:          '/blog'
+baseurl:          '/jk-assignment'
 rss:              RSS
 
 toc:
